@@ -1,3 +1,3 @@
 def call() {
-  echo "Hello Dosto, This is a shred library"
+  echo "Hello Dosto, This is a shared library"
 }
